@@ -9,6 +9,7 @@ import static org.junit.Assert.*;
 
 public class LoginServiceTest {
 
+
     private static final String login1 = "login1";
     private static final String login2 = "login2";
     private LoginService loginService;
