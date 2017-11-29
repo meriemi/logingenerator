@@ -9,6 +9,7 @@ import java.util.regex.Pattern;
  */
 public class LoginGenerator {
 
+
     private LoginService loginService;
 
     /**
